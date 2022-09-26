@@ -31,8 +31,8 @@
 //ZIGBEE
 #define RESTART_ZIGBEE_1 33
 #define FLASH_ZIGBEE_1 32
-#define ZRXD_1 5
-#define ZTXD_1 17
+#define ZRXD_1 17
+#define ZTXD_1 5
 
 //---TTGO T-Internet-POE---
 //LAN
@@ -67,7 +67,7 @@
 
 #define MAX_SOCKET_CLIENTS 5
 #define BAUD_RATE 38400
-#define TCP_LISTEN_PORT 9999
+#define TCP_LISTEN_PORT 6638
 
 #define ETH_ERROR_TIME 30
 
